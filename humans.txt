@@ -1,0 +1,9 @@
+
+#Humans text information
+
+Address for jango!!
+
+adding more humans race
+
+`:wq
+
