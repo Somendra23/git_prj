@@ -11,3 +11,5 @@ Jumbo Jackie
 ##Title branch changes
 Title brnahc updates are in place
 
+## Copy right release changes
+copy right branch update
