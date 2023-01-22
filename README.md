@@ -34,3 +34,5 @@ This is added in main branch
 
 
 ##Dev 2 updates for Kinesis stream op
+
+README changes stashed-1
