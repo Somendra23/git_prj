@@ -22,5 +22,7 @@ copy right branch update
 
 Changed in MAIN branch!!
 
+Making another change in RELEASE text in MAIN
+
 Make this change in bigtrouble branch !!
 
